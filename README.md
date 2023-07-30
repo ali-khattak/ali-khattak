@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-khattak
-- 👀 I’m interested in programming languages like python, c++ and java. and i am also working on flutterand web development.
-- 🌱 I’m currently learning Flutter, App development, web development
-- 💞️ I’m looking to collaborate on Google developers
+- 👀 I have a good knowledge in programming languages like python, c++ and java.
+- 🌱 I'm currently working on Game development.(UNITY)
+- 💞️ See you on the other side.
 - 📫 How to reach me aliskhattak664@gmail.com thats my gamil username you can reach me out through this.
 
 <!---
